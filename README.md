@@ -1,3 +1,5 @@
+![](.img/output.png)
+
 Run order:
 1. fetch_geojsons
 2. fetch_trip_ids
